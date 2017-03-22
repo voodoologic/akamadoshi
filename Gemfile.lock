@@ -40,7 +40,7 @@ GEM
     mini_portile2 (2.1.0)
     minima (2.1.0)
       jekyll (~> 3.3)
-    nokogiri (1.7.0.1)
+    nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
     octopress (3.0.11)
       jekyll (>= 2.0)

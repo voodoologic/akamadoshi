@@ -16,9 +16,9 @@
 title: Akamadoshi
 # email: your-email@domain.com
 description: >
-  Home of the Redmage
+  Red mage resources
 tagline: >
-  Black and White hats
+  Casting both white and black spells
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://akamadoshi.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: voodoologic

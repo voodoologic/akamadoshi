@@ -96,7 +96,10 @@ title: "Links"
 * [http://findingbad.blogspot.com/](http://findingbad.blogspot.com/)
 
 18. Red Team
+* [https://github.com/mame82/P4wnP1](https://github.com/mame82/P4wnP1)
 * [https://www.trustwave.com/Resources/SpiderLabs-Blog/Top-Five-Ways-SpiderLabs-Got-Domain-Admin-on-Your-Internal-Network/](https://www.trustwave.com/Resources/SpiderLabs-Blog/Top-Five-Ways-SpiderLabs-Got-Domain-Admin-on-Your-Internal-Network/)
+* [https://artkond.com/2017/03/23/pivoting-guide/]( https://artkond.com/2017/03/23/pivoting-guide/ )
+* [https://github.com/huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin)
 
 17. Software Defined Radio
 * [http://fcc.io/](http://fcc.io/)
@@ -149,3 +152,6 @@ The toolkit includes functionality to get MS-Office macros working for initial-e
 26. Blog
 * [https://community.rapid7.com/community/metasploit/blog/2017/02/23/weekly-metasploit-wrapup](https://community.rapid7.com/community/metasploit/blog/2017/02/23/weekly-metasploit-wrapup -- metasploit-framework module, exploit/multi/fileformat/office_word_macro)
 
+27. Tor
+* [http://deepweblinks](http://deepweblinks)
+* [http://reddit.com/r/onions](http://reddit.com/r/onions)

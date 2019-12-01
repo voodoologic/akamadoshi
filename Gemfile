@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.4.2"
+gem "jekyll"
 gem 'octopress'
 gem 'aws-sdk-v1'
 
